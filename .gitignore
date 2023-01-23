@@ -1,0 +1,3 @@
+/login/vendor
+/login/composer.lock
+/login/mvc/logs/*

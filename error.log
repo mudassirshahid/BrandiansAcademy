@@ -1,0 +1,99 @@
+[Sat Oct 29 11:19:06.308368 2022] [core:error] [pid 300594:tid 139802880927296] [client 202.47.44.177:43209] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Oct 29 11:19:08.995543 2022] [core:error] [pid 300593:tid 139802770916928] [client 202.47.44.177:43207] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Oct 29 11:19:15.403233 2022] [core:error] [pid 300594:tid 139802796095040] [client 202.47.44.177:43291] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Oct 29 12:06:18.027397 2022] [proxy_fcgi:error] [pid 300928:tid 140676117280320] [client 202.47.44.177:45006] AH01071: Got error 'Primary script unknown'
+[Sat Oct 29 12:06:18.996445 2022] [proxy_fcgi:error] [pid 300928:tid 140676244280896] [client 202.47.44.177:45006] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Sat Oct 29 12:07:38.584979 2022] [proxy_fcgi:error] [pid 300928:tid 140676134065728] [client 137.184.132.81:44546] AH01071: Got error 'Primary script unknown'
+[Sat Oct 29 12:07:47.041793 2022] [proxy_fcgi:error] [pid 300927:tid 140676269459008] [client 202.47.44.177:45774] AH01071: Got error 'Primary script unknown'
+[Sat Oct 29 12:07:50.070415 2022] [proxy_fcgi:error] [pid 300927:tid 140676066924096] [client 202.47.44.177:45774] AH01071: Got error 'Primary script unknown'
+[Sat Oct 29 12:07:52.004223 2022] [proxy_fcgi:error] [pid 300927:tid 140676016567872] [client 202.47.44.177:45774] AH01071: Got error 'Primary script unknown'
+[Sat Oct 29 14:32:04.284898 2022] [proxy_fcgi:error] [pid 300927:tid 140676041745984] [client 65.154.226.109:49257] AH01071: Got error 'Primary script unknown'
+[Sun Oct 30 17:12:09.671109 2022] [proxy_fcgi:error] [pid 316151:tid 140676100494912] [client 82.193.104.168:19262] AH01071: Got error 'Primary script unknown', referer: http://learn.brandians.com
+[Sun Oct 30 20:38:19.949412 2022] [proxy_fcgi:error] [pid 316150:tid 140676142458432] [client 183.129.153.157:52781] AH01071: Got error 'Primary script unknown'
+[Mon Oct 31 04:02:40.028583 2022] [proxy_fcgi:error] [pid 339282:tid 140676066924096] [client 42.201.173.165:53512] AH01071: Got error 'Primary script unknown'
+[Mon Oct 31 04:02:40.629789 2022] [proxy_fcgi:error] [pid 339282:tid 140676041745984] [client 42.201.173.165:53513] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Mon Oct 31 08:04:15.058524 2022] [proxy_fcgi:error] [pid 339283:tid 140676100494912] [client 202.47.44.177:44781] AH01071: Got error 'Primary script unknown'
+[Mon Oct 31 10:17:44.374371 2022] [proxy_fcgi:error] [pid 339282:tid 140676117280320] [client 202.47.44.177:44199] AH01071: Got error 'Primary script unknown'
+[Mon Oct 31 10:17:45.174076 2022] [proxy_fcgi:error] [pid 339282:tid 140676100494912] [client 202.47.44.177:44199] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Mon Oct 31 10:36:43.708710 2022] [proxy_fcgi:error] [pid 339283:tid 140676125673024] [client 3.84.122.149:16094] AH01071: Got error 'Primary script unknown'
+[Mon Oct 31 11:04:55.091154 2022] [proxy_fcgi:error] [pid 339282:tid 140676066924096] [client 202.47.44.177:44196] AH01071: Got error 'Primary script unknown'
+[Mon Oct 31 11:04:55.360066 2022] [proxy_fcgi:error] [pid 339282:tid 140676075316800] [client 202.47.44.177:44196] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Mon Oct 31 11:05:12.750738 2022] [proxy_fcgi:error] [pid 339283:tid 140676235888192] [client 202.47.44.177:44501] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Mon Oct 31 11:18:06.751067 2022] [proxy_fcgi:error] [pid 339283:tid 140676066924096] [client 202.47.44.177:45662] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Mon Oct 31 11:18:40.530527 2022] [proxy_fcgi:error] [pid 339283:tid 140676100494912] [client 202.47.44.177:45881] AH01071: Got error 'Primary script unknown'
+[Mon Oct 31 11:45:28.327226 2022] [proxy_fcgi:error] [pid 339283:tid 140676041745984] [client 101.53.226.171:6941] AH01071: Got error 'Primary script unknown'
+[Mon Oct 31 11:45:28.699175 2022] [proxy_fcgi:error] [pid 339283:tid 140676261066304] [client 101.53.226.171:6941] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Tue Nov 01 14:12:10.347574 2022] [proxy_fcgi:error] [pid 364481:tid 140676024960576] [client 35.153.201.55:34040] AH01071: Got error 'Primary script unknown'
+[Wed Nov 02 18:25:14.885097 2022] [proxy_fcgi:error] [pid 411011:tid 139654745515584] [client 202.47.44.177:46159] AH01071: Got error 'Primary script unknown'
+[Wed Nov 02 18:25:15.128265 2022] [proxy_fcgi:error] [pid 411011:tid 139654695159360] [client 202.47.44.177:46159] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Thu Nov 03 09:00:41.977748 2022] [proxy_fcgi:error] [pid 436175:tid 139654896944704] [client 52.204.37.189:51388] AH01071: Got error 'Primary script unknown'
+[Fri Nov 04 04:23:08.986495 2022] [proxy_fcgi:error] [pid 455196:tid 139654703552064] [client 54.236.208.121:33022] AH01071: Got error 'Primary script unknown'
+[Fri Nov 04 04:23:09.153338 2022] [proxy_fcgi:error] [pid 455167:tid 139654787479104] [client 3.80.37.224:55452] AH01071: Got error 'Primary script unknown'
+[Fri Nov 04 04:23:10.966959 2022] [proxy_fcgi:error] [pid 455167:tid 139654762300992] [client 52.207.252.233:33122] AH01071: Got error 'Primary script unknown'
+[Sat Nov 05 23:53:35.348591 2022] [proxy_fcgi:error] [pid 482258:tid 139654728730176] [client 54.163.222.228:45084] AH01071: Got error 'Primary script unknown'
+[Sat Nov 05 23:53:35.568336 2022] [proxy_fcgi:error] [pid 482259:tid 139654535829056] [client 3.94.161.87:36592] AH01071: Got error 'Primary script unknown'
+[Sat Nov 05 23:53:39.654911 2022] [proxy_fcgi:error] [pid 482258:tid 139654737122880] [client 42.144.142.96:14372] AH01071: Got error 'Primary script unknown'
+[Sat Nov 05 23:53:40.056512 2022] [proxy_fcgi:error] [pid 482258:tid 139654711944768] [client 52.207.252.233:52332] AH01071: Got error 'Primary script unknown'
+[Sun Nov 06 17:41:57.485478 2022] [proxy_fcgi:error] [pid 513520:tid 139654762300992] [client 198.235.24.39:61882] AH01071: Got error 'Primary script unknown'
+[Sun Nov 06 19:58:49.224896 2022] [proxy_fcgi:error] [pid 513519:tid 139654728730176] [client 205.210.31.142:57920] AH01071: Got error 'Primary script unknown', referer: http://165.22.181.193:80/
+[Mon Nov 07 09:41:37.026740 2022] [proxy_fcgi:error] [pid 537958:tid 139654913730112] [client 3.80.50.100:46394] AH01071: Got error 'Primary script unknown'
+[Mon Nov 07 09:41:37.288061 2022] [proxy_fcgi:error] [pid 537957:tid 139654737122880] [client 52.90.20.247:36220] AH01071: Got error 'Primary script unknown'
+[Mon Nov 07 09:41:37.391656 2022] [proxy_fcgi:error] [pid 537957:tid 139654703552064] [client 52.207.252.233:45538] AH01071: Got error 'Primary script unknown'
+[Tue Nov 08 13:24:56.763974 2022] [proxy_fcgi:error] [pid 564726:tid 139654695159360] [client 162.142.125.219:49668] AH01071: Got error 'Primary script unknown'
+[Tue Nov 08 13:24:56.835371 2022] [proxy_fcgi:error] [pid 564727:tid 139654745515584] [client 162.142.125.219:51058] AH01071: Got error 'Primary script unknown'
+[Tue Nov 08 16:06:35.900830 2022] [proxy_fcgi:error] [pid 564726:tid 139654653195840] [client 128.199.140.170:43176] AH01071: Got error 'Primary script unknown'
+[Tue Nov 08 16:06:36.597781 2022] [proxy_fcgi:error] [pid 564727:tid 139654745515584] [client 128.199.140.170:43350] AH01071: Got error 'Primary script unknown'
+[Tue Nov 08 16:53:59.925929 2022] [proxy_fcgi:error] [pid 564727:tid 139654686766656] [client 52.207.230.157:37038] AH01071: Got error 'Primary script unknown'
+[Tue Nov 08 16:54:00.104680 2022] [proxy_fcgi:error] [pid 564726:tid 139654711944768] [client 34.228.167.238:56798] AH01071: Got error 'Primary script unknown'
+[Tue Nov 08 16:54:15.378720 2022] [proxy_fcgi:error] [pid 564726:tid 139654644803136] [client 52.207.252.233:50384] AH01071: Got error 'Primary script unknown'
+[Wed Nov 09 15:20:02.576335 2022] [proxy_fcgi:error] [pid 592521:tid 139654770693696] [client 18.209.70.72:44170] AH01071: Got error 'Primary script unknown'
+[Wed Nov 09 15:20:02.790595 2022] [proxy_fcgi:error] [pid 592493:tid 139654812657216] [client 50.19.56.225:48172] AH01071: Got error 'Primary script unknown'
+[Wed Nov 09 15:20:21.223099 2022] [proxy_fcgi:error] [pid 592521:tid 139654720337472] [client 52.207.252.233:47212] AH01071: Got error 'Primary script unknown'
+[Thu Nov 10 16:33:17.530724 2022] [proxy_fcgi:error] [pid 619323:tid 139654913730112] [client 119.152.224.160:42072] AH01071: Got error 'Primary script unknown'
+[Thu Nov 10 16:33:17.826533 2022] [proxy_fcgi:error] [pid 619322:tid 139654779086400] [client 119.152.224.160:42082] AH01071: Got error 'Primary script unknown'
+[Fri Nov 11 07:34:14.272868 2022] [proxy_fcgi:error] [pid 663110:tid 139654737122880] [client 101.53.226.171:16489] AH01071: Got error 'Primary script unknown'
+[Fri Nov 11 07:34:14.616669 2022] [proxy_fcgi:error] [pid 663110:tid 139654703552064] [client 101.53.226.171:16489] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Fri Nov 11 07:35:32.097928 2022] [proxy_fcgi:error] [pid 663110:tid 139654644803136] [client 101.53.226.171:52318] AH01071: Got error 'Primary script unknown'
+[Fri Nov 11 19:28:38.686809 2022] [proxy_fcgi:error] [pid 663110:tid 139654745515584] [client 198.235.24.58:65210] AH01071: Got error 'Primary script unknown'
+[Sat Nov 12 06:47:01.128446 2022] [proxy_fcgi:error] [pid 687633:tid 139654896944704] [client 54.235.29.75:51024] AH01071: Got error 'Primary script unknown'
+[Sat Nov 12 06:47:01.386176 2022] [proxy_fcgi:error] [pid 687632:tid 139654661588544] [client 3.95.201.24:41344] AH01071: Got error 'Primary script unknown'
+[Sat Nov 12 06:47:18.241610 2022] [proxy_fcgi:error] [pid 687633:tid 139654720337472] [client 52.207.252.233:41988] AH01071: Got error 'Primary script unknown'
+[Sat Nov 12 13:19:05.900873 2022] [proxy_fcgi:error] [pid 687632:tid 139654905337408] [client 167.248.133.47:33608] AH01071: Got error 'Primary script unknown'
+[Sat Nov 12 13:19:07.224420 2022] [proxy_fcgi:error] [pid 687633:tid 139654821049920] [client 167.248.133.47:33410] AH01071: Got error 'Primary script unknown'
+[Sun Nov 13 06:18:26.652591 2022] [proxy_fcgi:error] [pid 712347:tid 139654913730112] [client 205.210.31.50:61180] AH01071: Got error 'Primary script unknown', referer: http://165.22.181.193:80/
+[Mon Nov 14 01:55:09.322724 2022] [proxy_fcgi:error] [pid 737708:tid 139654653195840] [client 3.95.201.24:33428] AH01071: Got error 'Primary script unknown'
+[Mon Nov 14 01:55:09.578602 2022] [proxy_fcgi:error] [pid 737709:tid 139654669981248] [client 50.17.31.216:37282] AH01071: Got error 'Primary script unknown'
+[Mon Nov 14 01:55:24.866727 2022] [proxy_fcgi:error] [pid 737708:tid 139654779086400] [client 52.207.252.233:36394] AH01071: Got error 'Primary script unknown'
+[Mon Nov 14 05:11:22.277529 2022] [proxy_fcgi:error] [pid 737708:tid 139654753908288] [client 147.78.47.249:58878] AH01071: Got error 'Primary script unknown', referer: http://learn.brandians.com/_ignition/health-check/
+[Mon Nov 14 05:11:24.650543 2022] [proxy_fcgi:error] [pid 737708:tid 139654703552064] [client 147.78.47.249:43334] AH01071: Got error 'Primary script unknown', referer: http://learn.brandians.com/public/_ignition/health-check/
+[Mon Nov 14 05:11:27.031254 2022] [proxy_fcgi:error] [pid 737708:tid 139654795871808] [client 147.78.47.249:54948] AH01071: Got error 'Primary script unknown', referer: http://learn.brandians.com/wp-includes/wlwmanifest.xml
+[Wed Nov 16 01:37:47.559531 2022] [proxy_fcgi:error] [pid 791037:tid 139654804264512] [client 198.235.24.138:61096] AH01071: Got error 'Primary script unknown'
+[Wed Nov 16 14:59:47.983905 2022] [proxy_fcgi:error] [pid 812541:tid 139716275951168] [client 202.47.44.177:43629] AH01071: Got error 'Primary script unknown'
+[Wed Nov 16 14:59:48.794607 2022] [proxy_fcgi:error] [pid 812541:tid 139716175238720] [client 202.47.44.177:43629] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Thu Nov 17 12:19:07.315693 2022] [proxy_fcgi:error] [pid 824067:tid 139716440892992] [client 202.47.44.177:43169] AH01071: Got error 'Primary script unknown'
+[Thu Nov 17 12:19:07.568066 2022] [proxy_fcgi:error] [pid 824067:tid 139716183631424] [client 202.47.44.177:43169] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Thu Nov 17 12:27:20.802496 2022] [proxy_fcgi:error] [pid 824067:tid 139715688789568] [client 202.47.44.177:42858] AH01071: Got error 'Primary script unknown'
+[Thu Nov 17 12:27:22.789363 2022] [proxy_fcgi:error] [pid 824067:tid 139716343092800] [client 202.47.44.177:42858] AH01071: Got error 'Primary script unknown', referer: https://learn.brandians.com/
+[Thu Nov 17 12:33:11.740170 2022] [proxy_fcgi:error] [pid 824086:tid 139716284343872] [client 202.47.44.177:45000] AH01071: Got error 'Primary script unknown'
+[Thu Nov 17 12:33:29.534089 2022] [proxy_fcgi:error] [pid 824086:tid 139716301129280] [client 202.47.44.177:44999] AH01071: Got error 'Primary script unknown'
+[Thu Nov 17 12:33:34.151247 2022] [proxy_fcgi:error] [pid 824086:tid 139716175238720] [client 202.47.44.177:44999] AH01071: Got error 'Primary script unknown'
+[Thu Nov 17 12:33:41.980878 2022] [proxy_fcgi:error] [pid 824067:tid 139716326307392] [client 202.47.44.177:45124] AH01071: Got error 'Primary script unknown'
+[Thu Nov 17 12:33:44.118038 2022] [proxy_fcgi:error] [pid 824067:tid 139716233987648] [client 202.47.44.177:45124] AH01071: Got error 'Primary script unknown'
+[Tue Nov 29 02:50:51.582833 2022] [core:error] [pid 1167412:tid 140244288493120] [client 128.1.248.26:50388] AH10244: invalid URI path (/icons/.%2e/%2e%2e/apache2/icons/sphere1.png)
+[Tue Nov 29 02:50:52.123406 2022] [core:error] [pid 1167411:tid 140244825364032] [client 128.1.248.26:51072] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/sphere1.png)
+[Tue Nov 29 02:50:52.389312 2022] [core:error] [pid 1167412:tid 140244322063936] [client 128.1.248.26:51812] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/non-existant-image.png)
+[Tue Nov 29 05:09:34.042693 2022] [proxy_fcgi:error] [pid 1167411:tid 140244858934848] [client 37.139.128.91:59855] AH01071: Got error 'Primary script unknown'
+[Tue Nov 29 05:09:35.203490 2022] [proxy_fcgi:error] [pid 1167412:tid 140244900898368] [client 37.139.128.91:59988] AH01071: Got error 'Primary script unknown'
+[Tue Nov 29 09:28:54.843503 2022] [negotiation:error] [pid 1167411:tid 140244733044288] [client 31.13.127.26:63072] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:55.146582 2022] [negotiation:error] [pid 1167412:tid 140244254922304] [client 31.13.127.18:32924] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:55.973395 2022] [negotiation:error] [pid 1167411:tid 140244808578624] [client 31.13.127.118:48734] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:56.217718 2022] [negotiation:error] [pid 1167412:tid 140244288493120] [client 31.13.127.16:48844] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:56.313635 2022] [negotiation:error] [pid 1167412:tid 140244296885824] [client 31.13.127.12:56756] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:57.818517 2022] [negotiation:error] [pid 1167411:tid 140244791793216] [client 31.13.127.9:52900] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:57.832501 2022] [negotiation:error] [pid 1167412:tid 140244892505664] [client 31.13.127.12:56768] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:57.841538 2022] [negotiation:error] [pid 1167411:tid 140244994475584] [client 31.13.127.19:35622] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:57.862378 2022] [negotiation:error] [pid 1167412:tid 140244364027456] [client 31.13.127.12:56780] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:58.486850 2022] [negotiation:error] [pid 1167411:tid 140244892505664] [client 31.13.127.13:50910] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:28:58.488703 2022] [negotiation:error] [pid 1167411:tid 140244766615104] [client 31.13.127.118:48740] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 09:29:02.940674 2022] [negotiation:error] [pid 1167412:tid 140244280100416] [client 202.47.44.177:44343] AH00687: Negotiation: discovered file(s) matching request: /var/www/live/academy.brandians.com/graphicdesign (None could be negotiated).
+[Tue Nov 29 13:18:01.798005 2022] [ssl:error] [pid 1167411:tid 140244800185920] [client 167.94.138.62:54914] AH02032: Hostname aquamacwater.com provided via SNI and hostname 165.22.181.193 provided via HTTP have no compatible SSL setup
